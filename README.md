@@ -1,3 +1,3 @@
 PieceTable
 
-For of [original crate](https://github.com/andreasfrom/piecetable)
+Fork of [original crate](https://github.com/andreasfrom/piecetable)
